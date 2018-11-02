@@ -1,4 +1,4 @@
-# @bamblehorse/tiny
+# Vadimtrify
 
 [![npm (scoped)](https://img.shields.io/npm/v/vadimtrify.svg)](https://www.npmjs.com/package/vadimtrify)
 
